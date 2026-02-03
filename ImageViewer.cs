@@ -29,7 +29,7 @@ namespace VMS.TPS
     public void Execute(ScriptContext context, System.Windows.Window window, ScriptEnvironment environment)
     {
             // TODO : Add here the code that is called when the script is launched from Eclipse.
-            window.Content = new ImageControl1(context.Image);
+            window.Content = new ImageControl1(context.PlanSetup);
 
 
     }
