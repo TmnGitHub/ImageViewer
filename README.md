@@ -1,6 +1,6 @@
 # ImageViewer
 
-A simple, lightweight image viewer repository. This project provides a minimal, easy-to-use application for browsing and viewing images. The repository contains source code, assets, and build instructions.
+A simple, lightweight image viewer repository. This project provides a minimal, easy-to-use application for browsing and viewing images. The repository contains source code, assets, and build instr[...] 
 
 ## Features
 
@@ -25,3 +25,5 @@ Add screenshots to the `docs/` or `assets/` directory and link them here.
    ```bash
    git clone https://github.com/TmnGitHub/ImageViewer.git
    cd ImageViewer
+
+```
