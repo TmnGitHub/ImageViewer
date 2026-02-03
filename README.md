@@ -1,11 +1,11 @@
-# ImageViewer
+# ImageViewer(ESAPI)
 
-A simple, lightweight image viewer repository. This project provides a minimal, easy-to-use application for browsing and viewing images in Eclipse. 
+A simple, lightweight image viewer repository build in ESAPI. This project provides a minimal, easy-to-use application for browsing and viewing images in Eclipse. 
 Feel free to use and modify as per your liking.
 
 ## Features
 
-- Open and view common image formats (DICOM --> image, strucutre and dose file)
+- Open and view common image formats (DICOM --> image, structure and dose file)
 - Basic navigation (next and previous)
 - Lightweight and fast
 - Cross-platform (Windows) — implementation-dependent
