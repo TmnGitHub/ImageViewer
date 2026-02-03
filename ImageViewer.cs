@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using VMS.TPS.Common.Model.API;
 using VMS.TPS.Common.Model.Types;
+using ImageViewer;
 
 // TODO: Replace the following version attributes by creating AssemblyInfo.cs. You can do this in the properties of the Visual Studio project.
 [assembly: AssemblyVersion("1.0.0.1")]
@@ -27,8 +28,8 @@ namespace VMS.TPS
     [MethodImpl(MethodImplOptions.NoInlining)]
     public void Execute(ScriptContext context, System.Windows.Window window, ScriptEnvironment environment)
     {
-      // TODO : Add here the code that is called when the script is launched from Eclipse.
-     
+            // TODO : Add here the code that is called when the script is launched from Eclipse.
+            window.Content = new ImageControl1(context.Image);
 
 
     }
