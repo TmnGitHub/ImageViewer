@@ -12,7 +12,7 @@ A simple, lightweight image viewer repository. This project provides a minimal, 
 ## Screenshots
 
 Add screenshots to the `docs/` or `assets/` directory and link them here.
-<img width="903" height="907" alt="Screenshot 2026-02-03 at 9 50 35 AM" src="https://github.com/user-attachments/assets/75002e07-d25a-49c2-8536-08accf599ee1" />
+<img width="878" height="898" alt="Screenshot 2026-02-03 at 9 51 53 AM" src="https://github.com/user-attachments/assets/2eae8df9-4273-4d37-87cc-8c7baf98196b" />
 
 ## Requirements
 
