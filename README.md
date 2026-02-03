@@ -1,22 +1,24 @@
 # ImageViewer
 
-A simple, lightweight image viewer repository. This project provides a minimal, easy-to-use application for browsing and viewing images. The repository contains source code, assets, and build instr[...] 
+A simple, lightweight image viewer repository. This project provides a minimal, easy-to-use application for browsing and viewing images in Eclipse. 
+Feel free to use and modify as per your liking.
 
 ## Features
 
-- Open and view common image formats (JPEG, PNG, GIF, BMP, WebP)
+- Open and view common image formats (DICOM --> image, strucutre and dose file)
 - Basic navigation (next and previous)
 - Lightweight and fast
 - Cross-platform (Windows) — implementation-dependent
 
 ## Screenshots
 
-Add screenshots to the `docs/` or `assets/` directory and link them here.
-<img width="878" height="898" alt="Screenshot 2026-02-03 at 9 51 53 AM" src="https://github.com/user-attachments/assets/2eae8df9-4273-4d37-87cc-8c7baf98196b" />
+<img width="871" height="895" alt="Screenshot 2026-02-03 at 10 03 26 AM" src="https://github.com/user-attachments/assets/ffb4bf88-833f-4a10-bd9b-fae1e7f77e3e" />
+
 
 ## Requirements
 
-- A recent version of the language/runtime/tooling used by the project (e.g. Node.js, Python, C#, Java). Check the project-specific docs or top-level files for exact requirements.
+- Visual Studio
+- Eclipse Escript Wizard
 
 ## Installation
 
